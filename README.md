@@ -1,1 +1,4 @@
-# Custom-Keyboard-Project hello
+# Custom-Keyboard-Project 
+9/9/2026
+I started my keyboard by starting to make the PCB using Kicad. To do the PCB I had to do the schematics first by placing switches for the keys and adding diodes on every switch so the keyboard wont start "ghosting" when multiple keys are pressed. Then i added stabilizers for each key that was going to be larger than 2U. After placing everything I started wiring the keyboard making rows and columns so i can wire them to the Pico micro controller faster, and to finish it off i added my mounting holes at the corners of my design. After that I just assigned footprints and annotated my schematics. Also if you struggle with planning out your keyboard i recommend using this website https://www.keyboard-layout-editor.com/#/ It lets you design your own keyboard by placing keys and adjusting the how many U's you want your keys to be.
+<img width="471" height="333" alt="Keeb schematics pic" src="https://github.com/user-attachments/assets/c20c22df-bb23-4bc3-9593-a47228d839f2" />
